@@ -1,4 +1,4 @@
-##Бот для итальянской биржи объявлений
+# Бот для итальянской биржи объявлений
 Стек: С#,.NET 7
 Библиотеки: [Telegram.Bot] (https://github.com/TelegramBots/Telegram.Bot)
 
